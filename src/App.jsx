@@ -1,7 +1,12 @@
 import "./App.css";
+import DateCounter from "./assets/components/DateCounter.jsx";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <DateCounter />
+    </>
+  );
 }
 
 export default App;
